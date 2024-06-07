@@ -21,7 +21,7 @@ const Create = () => {
     <div className='container'>
         <div className='row'>
             <div className='col'>
-                <h1>Create Product</h1>
+                <h1>Tienda Marco Raeed Creación de productos</h1>
                  <form onSubmit={store}>
                     <div className='mb-3'>
                         <label className='form-label'>Description</label>

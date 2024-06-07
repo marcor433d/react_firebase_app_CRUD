@@ -3,6 +3,8 @@ import './App.css';
 import Show from './components/Show';
 import Create from './components/Create';
 import Edit from './components/Edit';
+import React from 'react';
+
 
 //importamos el router
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
